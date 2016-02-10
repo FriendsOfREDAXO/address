@@ -1,0 +1,17 @@
+# Da R5 nur noch mit UTF8 arbeitet, entfällt der "utf8"-Suffix
+
+rex_address_title = Adresse
+
+rex_address_config = Konfiguration
+rex_address_config_street = Strasse
+rex_address_config_zipcode = PLZ
+rex_address_config_city = Ort
+rex_address_config_country = Land
+rex_address_config_latitude = Breitengrad
+rex_address_config_longitude = Längengrad
+rex_address_config_action_getcoords = Koordinaten ermitteln
+rex_address_config_action_save = Einstellungen speichern
+rex_address_config_saved = Einstellungen wurden gespeichert!
+
+perm_general_rex_address[] = Rechte für das Adresse-Addon
+perm_general_rex_address[config] = Rechte für die Konfiguratonsseite des Adresse-Addons

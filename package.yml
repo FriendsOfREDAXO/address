@@ -1,0 +1,10 @@
+package: rex_address
+version: '1.0'
+author: Thomas Kaegi
+supportpage: github.com/phoebusryan/rex_address
+
+page:
+    title: 'translate:title'
+    perm: rex_address[]
+    subpages:
+        config: { title: 'translate:config', perm: rex_address[config] }
