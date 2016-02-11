@@ -6,5 +6,6 @@ supportpage: github.com/phoebusryan/rex_address
 page:
     title: 'translate:title'
     perm: rex_address[]
+    icon: rex-icon fa-map-o
     subpages:
         config: { title: 'translate:config', perm: rex_address[config] }
