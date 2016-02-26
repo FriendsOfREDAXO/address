@@ -1,4 +1,4 @@
-<p>Das Addon bindet die Möglichkeit eine Adresse inkl. Koordinaten (via Googlemaps) im Backend zu verwalten. Im Frontend kann man die gespeicherten Werte anschliessend über die nachfolgenden Methdoden auslesen und verwenden.</p>
+<p>Das Addon bindet die Möglichkeit eine Adresse inkl. Koordinaten (via Googlemaps) im Backend zu verwalten. Im Frontend kann man die gespeicherten Werte anschliessend über die nachfolgenden Methoden auslesen und verwenden.</p>
 
 <p><b>Strasse</b></p>
 <?php
