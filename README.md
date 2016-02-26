@@ -7,7 +7,7 @@ Das Addon bindet die Möglichkeit eine Adresse inkl. Koordinaten (via Googlemaps
 
 ```
 <?php
-	echorex_address::getStreet();
+	echo rex_address::getStreet();
 ?>
 ```
 
@@ -15,7 +15,7 @@ Das Addon bindet die Möglichkeit eine Adresse inkl. Koordinaten (via Googlemaps
 
 ```
 <?php
-	echorex_address::getZipcode();
+	echo rex_address::getZipcode();
 ?>
 ```
 
@@ -23,7 +23,7 @@ Das Addon bindet die Möglichkeit eine Adresse inkl. Koordinaten (via Googlemaps
 
 ```
 <?php
-	echorex_address::getCity();
+	echo rex_address::getCity();
 ?>
 ```
 
@@ -31,7 +31,7 @@ Das Addon bindet die Möglichkeit eine Adresse inkl. Koordinaten (via Googlemaps
 
 ```
 <?php
-	echorex_address::getCountry();
+	echo rex_address::getCountry();
 ?>
 ```
 
@@ -39,7 +39,7 @@ Das Addon bindet die Möglichkeit eine Adresse inkl. Koordinaten (via Googlemaps
 
 ```
 <?php
-	echorex_address::getLatitude();
+	echo rex_address::getLatitude();
 ?>
 ```
 
@@ -47,6 +47,6 @@ Das Addon bindet die Möglichkeit eine Adresse inkl. Koordinaten (via Googlemaps
 
 ```
 <?php
-	echorex_address::getLongitude();
+	echo rex_address::getLongitude();
 ?>
 ```
