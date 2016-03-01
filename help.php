@@ -1,6 +1,6 @@
-<p><?=$this->i18n('rex_address_help_intro');?></p>
+<p><?=$this->i18n('help_intro');?></p>
 
-<p><b><?=$this->i18n('rex_address_config_street');?></b></p>
+<p><b><?=$this->i18n('config_street');?></b></p>
 <?php
 	$code = "";
 	$code .= "<?php".PHP_EOL;
@@ -9,7 +9,7 @@
 ?>
 <pre><?=highlight_string($code,true);?></pre>
 
-<p><b><?=$this->i18n('rex_address_config_zipcode');?></b></p>
+<p><b><?=$this->i18n('config_zipcode');?></b></p>
 <?php
 	$code = "";
 	$code .= "<?php".PHP_EOL;
@@ -18,7 +18,7 @@
 ?>
 <pre><?=highlight_string($code,true);?></pre>
 
-<p><b><?=$this->i18n('rex_address_config_city');?></b></p>
+<p><b><?=$this->i18n('config_city');?></b></p>
 <?php
 	$code = "";
 	$code .= "<?php".PHP_EOL;
@@ -27,7 +27,7 @@
 ?>
 <pre><?=highlight_string($code,true);?></pre>
 
-<p><b><?=$this->i18n('rex_address_config_country');?></b></p>
+<p><b><?=$this->i18n('config_country');?></b></p>
 <?php
 	$code = "";
 	$code .= "<?php".PHP_EOL;
@@ -36,7 +36,7 @@
 ?>
 <pre><?=highlight_string($code,true);?></pre>
 
-<p><b><?=$this->i18n('rex_address_config_latitude');?></b></p>
+<p><b><?=$this->i18n('config_latitude');?></b></p>
 <?php
 	$code = "";
 	$code .= "<?php".PHP_EOL;
@@ -45,7 +45,7 @@
 ?>
 <pre><?=highlight_string($code,true);?></pre>
 
-<p><b><?=$this->i18n('rex_address_config_longitude');?></b></p>
+<p><b><?=$this->i18n('config_longitude');?></b></p>
 <?php
 	$code = "";
 	$code .= "<?php".PHP_EOL;
