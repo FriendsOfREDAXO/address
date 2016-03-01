@@ -1,5 +1,3 @@
-# Da R5 nur noch mit UTF8 arbeitet, entfällt der "utf8"-Suffix
-
 rex_address_title = Adresse
 
 rex_address_config = Konfiguration
@@ -12,6 +10,8 @@ rex_address_config_longitude = Längengrad
 rex_address_config_action_getcoords = Koordinaten ermitteln
 rex_address_config_action_save = Einstellungen speichern
 rex_address_config_saved = Einstellungen wurden gespeichert!
+
+rex_address_help_intro = Das Addon bietet die Möglichkeit eine Adresse inkl. Koordinaten (via Googlemaps) im Backend zu verwalten. Im Frontend kann man die gespeicherten Werte anschliessend über die nachfolgenden Methoden auslesen und verwenden.
 
 perm_general_rex_address[] = Rechte für das Adresse-Addon
 perm_general_rex_address[config] = Rechte für die Konfiguratonsseite des Adresse-Addons

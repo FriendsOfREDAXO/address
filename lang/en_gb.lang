@@ -1,0 +1,17 @@
+rex_address_title = Address
+
+rex_address_config = Configuration
+rex_address_config_street = Street
+rex_address_config_zipcode = Zipcode
+rex_address_config_city = City
+rex_address_config_country = Country
+rex_address_config_latitude = Latitude
+rex_address_config_longitude = Longitude
+rex_address_config_action_getcoords = Get coordinates
+rex_address_config_action_save = Save settings
+rex_address_config_saved = Settings successfully saved!
+
+rex_address_help_intro = This addon gives you the possibility to manage an address incl. coordinates (via googlemaps) in the backend. In the frontend you get get the saved values via one of the following methods.
+
+perm_general_rex_address[] = Permissions for the Address-Addon
+perm_general_rex_address[config] = Permissions for the Configurationpage of the Address-Addon
