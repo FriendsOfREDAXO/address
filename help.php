@@ -5,7 +5,7 @@
 	$code = "";
 	$code .= "<?php".PHP_EOL;
 	$code .= "	echo rex_address::getStreet();".PHP_EOL;
-	$code .= "?>".PHP_EOL;
+	$code .= "?>";
 ?>
 <pre><?=highlight_string($code,true);?></pre>
 
@@ -14,7 +14,7 @@
 	$code = "";
 	$code .= "<?php".PHP_EOL;
 	$code .= "	echo rex_address::getZipcode();".PHP_EOL;
-	$code .= "?>".PHP_EOL;
+	$code .= "?>";
 ?>
 <pre><?=highlight_string($code,true);?></pre>
 
@@ -23,7 +23,7 @@
 	$code = "";
 	$code .= "<?php".PHP_EOL;
 	$code .= "	echo rex_address::getCity();".PHP_EOL;
-	$code .= "?>".PHP_EOL;
+	$code .= "?>";
 ?>
 <pre><?=highlight_string($code,true);?></pre>
 
@@ -32,7 +32,7 @@
 	$code = "";
 	$code .= "<?php".PHP_EOL;
 	$code .= "	echo rex_address::getCountry();".PHP_EOL;
-	$code .= "?>".PHP_EOL;
+	$code .= "?>";
 ?>
 <pre><?=highlight_string($code,true);?></pre>
 
@@ -41,7 +41,7 @@
 	$code = "";
 	$code .= "<?php".PHP_EOL;
 	$code .= "	echo rex_address::getLatitude();".PHP_EOL;
-	$code .= "?>".PHP_EOL;
+	$code .= "?>";
 ?>
 <pre><?=highlight_string($code,true);?></pre>
 
@@ -50,6 +50,6 @@
 	$code = "";
 	$code .= "<?php".PHP_EOL;
 	$code .= "	echo rex_address::getLongitude();".PHP_EOL;
-	$code .= "?>".PHP_EOL;
+	$code .= "?>";
 ?>
 <pre><?=highlight_string($code,true);?></pre>
