@@ -2,7 +2,6 @@
 	$content = '';
 	
 	if (rex_post('rex_address-config-submit', 'boolean')) {
-		echo '<pre>'.print_r($_POST,true).'</pre>';
 		$this->setConfig(rex_post('config', [
 			['street', 'string'],
 			['zipcode', 'string'],
