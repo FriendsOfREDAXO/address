@@ -1,7 +1,7 @@
 package: rex_address
 version: '1.0.3'
-author: Thomas Kaegi
-supportpage: github.com/phoebusryan/rex_address
+author: Friends Of REDAXO
+supportpage: github.com/FriendsOfREDAXO/rex_address
 
 page:
     title: 'translate:title'
