@@ -1,15 +1,22 @@
 rex_address_title = Adresse
 
-rex_address_config = Konfiguration
-rex_address_config_street = Strasse
-rex_address_config_zipcode = PLZ
-rex_address_config_city = Ort
-rex_address_config_country = Land
-rex_address_config_latitude = Breitengrad
-rex_address_config_longitude = Längengrad
-rex_address_config_action_getcoords = Koordinaten ermitteln
-rex_address_config_action_save = Einstellungen speichern
-rex_address_config_saved = Einstellungen wurden gespeichert!
+rex_address_address = Adresse
+rex_address_address_street = Strasse
+rex_address_address_zipcode = PLZ
+rex_address_address_city = Ort
+rex_address_address_country = Land
+rex_address_address_latitude = Breitengrad
+rex_address_address_longitude = Längengrad
+rex_address_address_action_getcoords = Koordinaten ermitteln
+
+rex_address_miscellaneous = Sonstiges
+rex_address_miscellaneous_telephone = Telefon
+rex_address_miscellaneous_fax = Fax
+rex_address_miscellaneous_email = Email
+rex_address_miscellaneous_info = Info
+
+rex_address_action_save = Einstellungen speichern
+rex_address_saved = Einstellungen wurden gespeichert!
 
 rex_address_help_intro = Das Addon bietet die Möglichkeit eine Adresse inkl. Koordinaten (via Googlemaps) im Backend zu verwalten. Im Frontend kann man die gespeicherten Werte anschliessend über die nachfolgenden Methoden auslesen und verwenden.
 
