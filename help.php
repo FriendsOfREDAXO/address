@@ -3,7 +3,7 @@
 	
 	$code = "";
 	$code .= "<?php".PHP_EOL;
-	$code .= "	echo rex_address::getTelephone();".PHP_EOL;
+	$code .= "	echo address::getTelephone();".PHP_EOL;
 	$code .= "?>";
 	
 	$fragment = new rex_fragment();
@@ -16,7 +16,7 @@
 	
 	$code = "";
 	$code .= "<?php".PHP_EOL;
-	$code .= "	echo rex_address::getFax();".PHP_EOL;
+	$code .= "	echo address::getFax();".PHP_EOL;
 	$code .= "?>";
 	
 	$fragment = new rex_fragment();
@@ -29,7 +29,7 @@
 	
 	$code = "";
 	$code .= "<?php".PHP_EOL;
-	$code .= "	echo rex_address::getEmail();".PHP_EOL;
+	$code .= "	echo address::getEmail();".PHP_EOL;
 	$code .= "?>";
 	
 	$fragment = new rex_fragment();
@@ -42,7 +42,7 @@
 	
 	$code = "";
 	$code .= "<?php".PHP_EOL;
-	$code .= "	echo rex_address::getInfo();".PHP_EOL;
+	$code .= "	echo address::getInfo();".PHP_EOL;
 	$code .= "?>";
 	
 	$fragment = new rex_fragment();
@@ -55,7 +55,7 @@
 	
 	$code = "";
 	$code .= "<?php".PHP_EOL;
-	$code .= "	echo rex_address::getStreet();".PHP_EOL;
+	$code .= "	echo address::getStreet();".PHP_EOL;
 	$code .= "?>";
 	
 	$fragment = new rex_fragment();
@@ -68,7 +68,7 @@
 	
 	$code = "";
 	$code .= "<?php".PHP_EOL;
-	$code .= "	echo rex_address::getZipcode();".PHP_EOL;
+	$code .= "	echo address::getZipcode();".PHP_EOL;
 	$code .= "?>";
 	
 	$fragment = new rex_fragment();
@@ -81,7 +81,7 @@
 	
 	$code = "";
 	$code .= "<?php".PHP_EOL;
-	$code .= "	echo rex_address::getCity();".PHP_EOL;
+	$code .= "	echo address::getCity();".PHP_EOL;
 	$code .= "?>";
 	
 	$fragment = new rex_fragment();
@@ -94,7 +94,7 @@
 	
 	$code = "";
 	$code .= "<?php".PHP_EOL;
-	$code .= "	echo rex_address::getCountry();".PHP_EOL;
+	$code .= "	echo address::getCountry();".PHP_EOL;
 	$code .= "?>";
 	
 	$fragment = new rex_fragment();
@@ -107,7 +107,7 @@
 	
 	$code = "";
 	$code .= "<?php".PHP_EOL;
-	$code .= "	echo rex_address::getLatitude();".PHP_EOL;
+	$code .= "	echo address::getLatitude();".PHP_EOL;
 	$code .= "?>";
 	
 	$fragment = new rex_fragment();
@@ -120,7 +120,7 @@
 	
 	$code = "";
 	$code .= "<?php".PHP_EOL;
-	$code .= "	echo rex_address::getLongitude();".PHP_EOL;
+	$code .= "	echo address::getLongitude();".PHP_EOL;
 	$code .= "?>";
 	
 	$fragment = new rex_fragment();

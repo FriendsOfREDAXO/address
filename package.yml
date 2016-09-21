@@ -1,13 +1,13 @@
-package: rex_address
+package: address
 version: '1.1.0'
 author: Friends Of REDAXO
-supportpage: github.com/FriendsOfREDAXO/rex_address
+supportpage: github.com/FriendsOfREDAXO/address
 
 page:
     title: 'translate:title'
-    perm: rex_address[]
+    perm: address[]
     pjax: true
     icon: rex-icon fa-map-o
     subpages:
-        address: { title: 'translate:address', perm: rex_address[address] }
-        miscellaneous: { title: 'translate:miscellaneous', perm: rex_address[miscellaneous] }
+        address: { title: 'translate:address', perm: address[address] }
+        miscellaneous: { title: 'translate:miscellaneous', perm: address[miscellaneous] }

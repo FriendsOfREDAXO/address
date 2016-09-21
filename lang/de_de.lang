@@ -1,24 +1,24 @@
-rex_address_title = Adresse
+address_title = Adresse
 
-rex_address_address = Adresse
-rex_address_address_street = Strasse
-rex_address_address_zipcode = PLZ
-rex_address_address_city = Ort
-rex_address_address_country = Land
-rex_address_address_latitude = Breitengrad
-rex_address_address_longitude = Längengrad
-rex_address_address_action_getcoords = Koordinaten ermitteln
+address_address = Adresse
+address_address_street = Strasse
+address_address_zipcode = PLZ
+address_address_city = Ort
+address_address_country = Land
+address_address_latitude = Breitengrad
+address_address_longitude = Längengrad
+address_address_action_getcoords = Koordinaten ermitteln
 
-rex_address_miscellaneous = Sonstiges
-rex_address_miscellaneous_telephone = Telefon
-rex_address_miscellaneous_fax = Fax
-rex_address_miscellaneous_email = Email
-rex_address_miscellaneous_info = Info
+address_miscellaneous = Sonstiges
+address_miscellaneous_telephone = Telefon
+address_miscellaneous_fax = Fax
+address_miscellaneous_email = Email
+address_miscellaneous_info = Info
 
-rex_address_action_save = Einstellungen speichern
-rex_address_saved = Einstellungen wurden gespeichert!
+address_action_save = Einstellungen speichern
+address_saved = Einstellungen wurden gespeichert!
 
-rex_address_help_intro = Das Addon bietet die Möglichkeit eine Adresse inkl. Koordinaten (via Googlemaps) im Backend zu verwalten. Im Frontend kann man die gespeicherten Werte anschliessend über die nachfolgenden Methoden auslesen und verwenden.
+address_help_intro = Das Addon bietet die Möglichkeit eine Adresse inkl. Koordinaten (via Googlemaps) im Backend zu verwalten. Im Frontend kann man die gespeicherten Werte anschliessend über die nachfolgenden Methoden auslesen und verwenden.
 
-perm_general_rex_address[] = Rechte für das Adresse-Addon
-perm_general_rex_address[config] = Rechte für die Konfiguratonsseite des Adresse-Addons
+perm_general_address[] = Rechte für das Adresse-Addon
+perm_general_address[config] = Rechte für die Konfiguratonsseite des Adresse-Addons

@@ -7,7 +7,7 @@ Das Addon bietet die Möglichkeit eine Adresse inkl. Koordinaten (via Googlemaps
 
 ```
 <?php
-	echo rex_address::getTelephone();
+	echo address::getTelephone();
 ?>
 ```
 
@@ -15,7 +15,7 @@ Das Addon bietet die Möglichkeit eine Adresse inkl. Koordinaten (via Googlemaps
 
 ```
 <?php
-	echo rex_address::getFax();
+	echo address::getFax();
 ?>
 ```
 
@@ -23,7 +23,7 @@ Das Addon bietet die Möglichkeit eine Adresse inkl. Koordinaten (via Googlemaps
 
 ```
 <?php
-	echo rex_address::getEmail();
+	echo address::getEmail();
 ?>
 ```
 
@@ -31,7 +31,7 @@ Das Addon bietet die Möglichkeit eine Adresse inkl. Koordinaten (via Googlemaps
 
 ```
 <?php
-	echo rex_address::getInfo();
+	echo address::getInfo();
 ?>
 ```
 
@@ -39,7 +39,7 @@ Das Addon bietet die Möglichkeit eine Adresse inkl. Koordinaten (via Googlemaps
 
 ```
 <?php
-	echo rex_address::getStreet();
+	echo address::getStreet();
 ?>
 ```
 
@@ -47,7 +47,7 @@ Das Addon bietet die Möglichkeit eine Adresse inkl. Koordinaten (via Googlemaps
 
 ```
 <?php
-	echo rex_address::getZipcode();
+	echo address::getZipcode();
 ?>
 ```
 
@@ -55,7 +55,7 @@ Das Addon bietet die Möglichkeit eine Adresse inkl. Koordinaten (via Googlemaps
 
 ```
 <?php
-	echo rex_address::getCity();
+	echo address::getCity();
 ?>
 ```
 
@@ -63,7 +63,7 @@ Das Addon bietet die Möglichkeit eine Adresse inkl. Koordinaten (via Googlemaps
 
 ```
 <?php
-	echo rex_address::getCountry();
+	echo address::getCountry();
 ?>
 ```
 
@@ -71,7 +71,7 @@ Das Addon bietet die Möglichkeit eine Adresse inkl. Koordinaten (via Googlemaps
 
 ```
 <?php
-	echo rex_address::getLatitude();
+	echo address::getLatitude();
 ?>
 ```
 
@@ -79,6 +79,6 @@ Das Addon bietet die Möglichkeit eine Adresse inkl. Koordinaten (via Googlemaps
 
 ```
 <?php
-	echo rex_address::getLongitude();
+	echo address::getLongitude();
 ?>
 ```
