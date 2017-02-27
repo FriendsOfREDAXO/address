@@ -2,23 +2,23 @@ address_title = Address
 
 address_address = Address
 address_address_street = Street
-address_address_zipcode = Zipcode
+address_address_zipcode = Zip code
 address_address_city = City
 address_address_country = Country
 address_address_latitude = Latitude
 address_address_longitude = Longitude
-address_address_action_getcoords = Get coordinate
+address_address_action_getcoords = Evaluate coordinates
 
 address_miscellaneous = Miscellaneous
 address_miscellaneous_telephone = Telephone
 address_miscellaneous_fax = Fax
-address_miscellaneous_email = Email
+address_miscellaneous_email = E-mail
 address_miscellaneous_info = Info
 
 address_action_save = Save settings
-address_saved = Settings successfully saved!
+address_saved = Settings saved successfully!
 
-address_help_intro = This addon gives you the possibility to manage an address incl. coordinates (via googlemaps) in the backend. In the frontend you can get the saved values via one of the following methods.
+address_help_intro = This addon allows managing an address including coordinates (via Google Maps) through the backend. In the frontend you can get the saved values via one of the following methods.
 
 perm_general_address[] = Permissions for the Address-Addon
 perm_general_address[config] = Permissions for the Configurationpage of the Address-Addon
