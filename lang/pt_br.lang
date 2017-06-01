@@ -1,0 +1,24 @@
+address_title = Endereço
+
+address_address = Endereço
+address_address_street = Rua
+address_address_zipcode = Código postal
+address_address_city = Cidade
+address_address_country = Páis
+address_address_latitude = Latitude
+address_address_longitude = Longitude
+address_address_action_getcoords = Determinar coordenadas
+
+address_miscellaneous = Outros
+address_miscellaneous_telephone = Telefone
+address_miscellaneous_fax = Fax
+address_miscellaneous_email = E-mail
+address_miscellaneous_info = Info
+
+address_action_save = Salvas configurações
+address_saved = Configurações salvas com sucesso
+
+address_help_intro = Este Addon permite editar um endereço incluindo coordenadas (Via Google Maps) através do backend. No frontedn, você pode acessar aos valores salvos através dos métodos a seguir:
+
+perm_general_address[] = Permissões para o Addon de endereço
+perm_general_address[config] = Permissões para a página de configuração do Addon de endereço
