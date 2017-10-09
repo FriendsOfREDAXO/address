@@ -1,0 +1,24 @@
+address_title = Adress
+
+address_address = Adress
+address_address_street = Gata
+address_address_zipcode = Postnr.
+address_address_city = Ort
+address_address_country = Land
+address_address_latitude = Breddgrad
+address_address_longitude = Längdgrad
+address_address_action_getcoords = Bestämma koordinaterna
+
+address_miscellaneous = Övrigt
+address_miscellaneous_telephone = Telefon
+address_miscellaneous_fax = Fax
+address_miscellaneous_email = E-post
+address_miscellaneous_info = Info
+
+address_action_save = Spara inställningarna
+address_saved = Inställningarna har sparats!
+
+address_help_intro = Med denna tillägg kan du hantera en adress inklusive koordinater (via Google Maps) via backend. I frontenden kan du få de sparade värdena via en av de följande metoder.
+
+perm_general_address[] = Permissions for the Address-Addon
+perm_general_address[config] = Permissions for the Configurationpage of the Address-Addon
