@@ -1,0 +1,24 @@
+address_title = indirizzo
+
+address_address = indirizzo
+address_address_street = via
+address_address_zipcode = cap
+address_address_city = luogo
+address_address_country = paese
+address_address_latitude = latitudine
+address_address_longitude = longitudine
+address_address_action_getcoords = rilevare le coordinate
+
+address_miscellaneous = altro
+address_miscellaneous_telephone = telefono
+address_miscellaneous_fax = fax
+address_miscellaneous_email = email
+address_miscellaneous_info = informazioni
+
+address_action_save = salva impostazioni
+address_saved = impostazioni salvate
+
+address_help_intro = 
+
+perm_general_address[] = 
+perm_general_address[config] = 
