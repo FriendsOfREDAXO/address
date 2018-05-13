@@ -1,0 +1,24 @@
+address_title = Dirección
+
+address_address = Dirección
+address_address_street = Calle
+address_address_zipcode = Código postal
+address_address_city = Ciudad
+address_address_country = País
+address_address_latitude = Latitud
+address_address_longitude = Longitud
+address_address_action_getcoords = Determinar coordenadas
+
+address_miscellaneous = Otro
+address_miscellaneous_telephone = Teléfono
+address_miscellaneous_fax = Fax
+address_miscellaneous_email = E-mail
+address_miscellaneous_info = Info
+
+address_action_save = Guardar configuraciones
+address_saved = Los ajustes han sido guardados!
+
+address_help_intro = El complemento ofrece la posibilidad de administrar una dirección incluyendo coordenadas (a través de Google Maps) en el back-end. En la interfaz, los valores almacenados pueden leerse y utilizarse a través de los siguientes métodos.
+
+perm_general_address[] = Permisos para el complemento de dirección
+perm_general_address[config] = Permisos para la página de configuración del complemento de dirección
