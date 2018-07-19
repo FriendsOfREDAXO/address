@@ -3,82 +3,82 @@ Redaxo 5 Addon - Adressverwaltung
 
 Das Addon bietet die Möglichkeit eine Adresse inkl. Koordinaten (via Googlemaps) im Backend zu verwalten. Im Frontend kann man die gespeicherten Werte anschliessend über die nachfolgenden Methoden auslesen und verwenden.
 
-###Telefon
+### Telefon
 
-```
+```php
 <?php
-	echo address::getTelephone();
+   echo address::getTelephone();
 ?>
 ```
 
-###Fax
+### Fax
 
-```
+```php
 <?php
-	echo address::getFax();
+   echo address::getFax();
 ?>
 ```
 
-###Email
+### Email
 
-```
+```php
 <?php
-	echo address::getEmail();
+   echo address::getEmail();
 ?>
 ```
 
-###Info
+### Info
 
-```
+```php
 <?php
-	echo address::getInfo();
+   echo address::getInfo();
 ?>
 ```
 
-###Strasse
+### Strasse
 
-```
+```php
 <?php
-	echo address::getStreet();
+   echo address::getStreet();
 ?>
 ```
 
-###PLZ
+### PLZ
 
-```
+```php
 <?php
-	echo address::getZipcode();
+   echo address::getZipcode();
 ?>
 ```
 
-###Ort
+### Ort
 
-```
+```php
 <?php
-	echo address::getCity();
+   echo address::getCity();
 ?>
 ```
 
-###Land
+### Land
 
-```
+```php
 <?php
-	echo address::getCountry();
+   echo address::getCountry();
 ?>
 ```
 
-###Breitengrad
+### Breitengrad
 
-```
+```php
 <?php
-	echo address::getLatitude();
+   echo address::getLatitude();
 ?>
 ```
 
-###Längengrad
+### Längengrad
 
-```
+```php
 <?php
-	echo address::getLongitude();
+   echo address::getLongitude();
 ?>
 ```
