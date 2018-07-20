@@ -11,3 +11,6 @@ page:
     subpages:
         address: { title: 'translate:address', perm: address[address] }
         miscellaneous: { title: 'translate:miscellaneous', perm: address[miscellaneous] }
+
+requires:
+    redaxo: '>=5.1.0'
